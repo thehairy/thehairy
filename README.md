@@ -15,7 +15,7 @@ Location: Berlin, Germany
 Frameworks: None
 Languages: JavaScript
 Learning: Node.js
-Hobbies: Sleeping, Movies, Gaming, Eating
+Hobbies: Eating
 Commits: Enough
 Stars: 11
 Discord: thehairy#0285
