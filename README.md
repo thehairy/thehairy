@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://imageing.eu/shared/muyOh8o.png" alt="Chewbacca" width="380" /> 
+<img align="left" src="https://imageing.eu/shared/muyOh8o.png" alt="Chewbacca" width="300" /> 
 
 ```csharp
 thehairy@github
@@ -21,7 +21,6 @@ Stars: 11
 Discord: thehairy#0285
 ```
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src="https://github.com/thehairy/thehairy/blob/output/github-contribution-grid-snake.svg" width="500"/></p>
 
