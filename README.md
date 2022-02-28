@@ -23,7 +23,6 @@ Discord: thehairy#0285
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/211888560662511617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thehairy#0285" height="30" width="40" /></a>
 <img src="https://github.com/thehairy/thehairy/blob/output/github-contribution-grid-snake.svg" width="500"/></p>
 
 
