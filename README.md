@@ -20,5 +20,6 @@ Commits: Enough
 Stars: 11
 Discord: thehairy#0285
 ```
-
+<p style="text-align: center">
 ![Commit Snake Game](https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake.svg)
+</p>
