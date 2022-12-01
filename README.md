@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="320" /> 
+<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="315" /> 
 
 ```csharp
 thehairy@github
