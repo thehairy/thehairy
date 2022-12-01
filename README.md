@@ -9,11 +9,11 @@ thehairy@github
 -------------------------
 OS: Linux Mint 20.3 x86_64
 Shell: bash 5.0.17
-Birth: 20 years ago
+Birth: 21 years ago
 Pronouns: He/Him
 Location: Berlin, Germany
 Frameworks: None
-Languages: JavaScript
+Languages: JavaScript, TypeScript
 Learning: Node.js
 Hobbies: Eating
 Commits: 255
