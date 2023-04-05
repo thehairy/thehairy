@@ -10,7 +10,7 @@ thehairy@github
 OS: Windows 11 Pro x86_64
 Kernel: 10.0.22621
 Shell: bash 5.0.17
-Uptime: 21 years
+Uptime: 22 years
 Pronouns: He/Him
 Location: Berlin, Germany
 Frameworks: None
