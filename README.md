@@ -1,8 +1,8 @@
 ```zsh
 > neofetch
 ```
-
-<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="275" /> 
+![Status](https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge)
+<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="320" /> 
 
 ```csharp
 thehairy@github
