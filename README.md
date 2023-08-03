@@ -3,7 +3,7 @@
 ```
 ![Status](https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge) &nbsp; ![playing](https://api.statusbadges.me/badge/playing/211888560662511617?style=for-the-badge) &nbsp; ![vscode](https://api.statusbadges.me/badge/vscode/211888560662511617?style=for-the-badge) &nbsp; ![intellij](https://api.statusbadges.me/badge/intellij/211888560662511617?style=for-the-badge) &nbsp; [![spotify](https://api.statusbadges.me/badge/spotify/211888560662511617?style=for-the-badge)](https://api.statusbadges.me/openspotify/211888560662511617)
 
-<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="320" /> 
+<img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="275" /> 
 
 ```csharp
 thehairy@github
