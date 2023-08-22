@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - uwu
+    - main
 
 jobs:
   generate-readme:
