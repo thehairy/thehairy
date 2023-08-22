@@ -21,4 +21,4 @@ Hobbies: Eating
 Commits: 255
 Discord: thehairy#0285
 ```
-![Commit Snake Game](https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake.svg)
+![Commit Snake Game](https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake-dark.svg)
