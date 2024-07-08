@@ -11,14 +11,14 @@ thehairy@github
 OS: Windows 11 Pro x86_64
 Kernel: 10.0.22621
 Shell: bash 5.0.17
-Uptime: 22 years
+Uptime: 23 years
 Pronouns: He/Him
-Location: Berlin, Germany
+Location: Brieselang, Germany
 Frameworks: None
-Languages: JavaScript, TypeScript
+Languages: JavaScript, TypeScript, PHP
 Learning: Node.js
 Hobbies: Eating
-Commits: 255
-Discord: thehairy#0285
+Commits: Yes
+Discord: thehairy
 ```
 ![Commit Snake Game](https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake-dark.svg)
