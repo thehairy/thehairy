@@ -5,18 +5,17 @@
 
 <img align="left" src="https://i.imgur.com/qeTp1Hv.jpeg" alt="Chewbacca" width="275" /> 
 
-```csharp
+```swift
 thehairy@github
 -------------------------
-OS: Windows 11 Pro x86_64
-Kernel: 10.0.22621
+OS: macOS Sequoia 15.5
 Shell: bash 5.0.17
-Uptime: 23 years
+Uptime: 24 years
 Pronouns: He/Him
 Location: Berlin, Germany
 Frameworks: None
-Languages: JavaScript, TypeScript, PHP
-Learning: Node.js
+Languages: JavaScript, TypeScript, PHP, Swift
+Learning: Swift
 Hobbies: Eating
 Commits: Yes
 Discord: thehairy
